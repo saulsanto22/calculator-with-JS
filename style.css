@@ -5,7 +5,7 @@ html {
     display: flex;
     justify-content: center;
     color: #ecf0f1;
-    background-color: rgb(23, 24, 37);
+    background-color: rgb(56, 56, 58);
     font-family: 'Fjalla One', sans-serif;
     animation: fadein 1.5s;
 }
@@ -34,7 +34,7 @@ input {
     text-align: right;
     border: none;
     font-size: 3rem;
-    width: 78vw;
+    width: 79vw;
     height: 100px;
     margin-bottom: 0.5rem;
     border-radius: 0.5rem;
@@ -56,6 +56,10 @@ input {
 .calculator {
     padding: 0.25rem;
     display: inline-block;
+}
+
+h1 a{
+    color: green;
 }
 
 table {
